@@ -1,0 +1,41 @@
+.-mt-3{
+    margin-top: -1rem;
+}
+
+a{
+    text-decoration: none;
+}
+.fs-7{
+    font-size: 0.75rem;
+}
+.w-10{
+    width: 10%;
+}
+.w-70{
+    width: 70%;
+}
+.input-group {
+    width:30%;
+}
+header nav a{
+    color: white;
+}
+
+.navbar0{
+    background-color: #232F3E;
+}
+main section.cards{
+    background-color: #E3E6E6;
+}
+.-mt-5{
+    margin-top: -8rem;
+}
+.carousel{
+    background-color: #E3E6E6;
+}
+.top{
+    background-color: #37475A;
+}
+footer h6 , footer a{
+    color: white;
+}
